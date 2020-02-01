@@ -10,7 +10,9 @@
 - [Cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
 - [Do Not Track](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/doNotTrack)
 - [CPU](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware/hardwareConcurrency)
-- [Memory](https://developer.mozilla.org/en-US/docs/Web/API/Device_Memory_API)
+- Memory
+  - [Device Memory API](https://developer.mozilla.org/en-US/docs/Web/API/Device_Memory_API)
+  - [Performance.memory](https://developer.mozilla.org/en-US/docs/Web/API/Performance/memory)
 - [Resolution](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
 - [Cripbord](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/clipboard)
 - [Connection](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/connection)
