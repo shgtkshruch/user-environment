@@ -1,1 +1,20 @@
-# user-environment
+# User Environment
+
+- Scrent Size
+- [User Agent](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorID/userAgent)
+- [Browser Vendor](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/vendor)
+- [Platform](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorID/platform)
+- [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition)
+- [Language](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage/language)
+- [Referrer](https://developer.mozilla.org/en-US/docs/Web/API/Document/referrer)
+- [Cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+- [Do Not Track](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/doNotTrack)
+- [CPU](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware/hardwareConcurrency)
+- [Memory](https://developer.mozilla.org/en-US/docs/Web/API/Device_Memory_API)
+- [Resolution](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
+- [Cripbord](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/clipboard)
+- [Connection](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/connection)
+- [Online](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine)
+- [Touch Points](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/maxTouchPoints)
+- [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
+- [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
